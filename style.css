@@ -1,0 +1,31 @@
+#title {
+    color: rgb(245, 234, 35);
+    font-size: 100;
+    margin-bottom: -10;
+}
+
+#score {
+    color: black;
+    font-size: 35;
+    font-weight: bold;
+}
+
+#restart {
+    height: 50;
+    width: 75;
+    font-size: large;
+    font-weight: bolder;
+    background-color: rgb(214, 205, 196);
+    margin-left: 400;
+    margin-bottom: -50;
+}
+
+#panel {
+    background-color: rgb(238, 236, 234);
+    height: 550;
+    width: 500;
+    padding-top: 25;
+    padding-left: 25;
+    padding-right: 25;
+    padding-bottom: 25;
+}
